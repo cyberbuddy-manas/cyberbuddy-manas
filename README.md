@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manas_gupta your official cyberbuddy.
+- 👋 Hi, I’m Manas Gupta your official cyberbuddy.
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning networking.
 - 💞️ I’m looking to collaborate with anyone with the same interests.
