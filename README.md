@@ -1,4 +1,4 @@
-# It's Your Cyberbuddy
+# It's Your Cyberbuddy:fire:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Cybersecurity enthusiast stuck with Web-Dev
 
 I am a passionate under-grad who aspires to pursue his higher studies in Canada. My understanding about the tree of technology has led me to explore all of its child nodes.
