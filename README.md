@@ -27,7 +27,7 @@ I am a passionate under-grad who aspires to pursue his higher studies in Canada.
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cyberbuddy-manas&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" alt="Manas Gupta's Github Stats" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center">
-      <a href="https://manasgupta.me">
+      <a href="https://manas.cyberbuddy.tech">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
@@ -45,5 +45,5 @@ I am a passionate under-grad who aspires to pursue his higher studies in Canada.
   
 <br>
 
-## Also Checkout : [Cyberbuddy.io](https://www.cyberbuddy.io)
+## Also Checkout : [Cyberbuddy.tech](https://www.cyberbuddy.tech)
 <a href="https://blog.cyberbuddy.io"><img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow"></a> &nbsp;&nbsp;  <a href="https://github.com/cyberbuddy-io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  &nbsp;&nbsp; <a href="https://instagram.com/cyberbuddy-manas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;  <a href="https://twitter.com/cyberbuddy_io"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
