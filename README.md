@@ -45,5 +45,5 @@ I am a passionate under-grad who aspires to pursue his higher studies in Canada.
   
 <br>
 
-## Also Checkout : [Cyberbuddy.tech](https://www.cyberbuddy.tech)
+## Also Checkout : [Cyberbuddy.tech](https://www.cyberbuddy.live)
 <a href="https://blog.cyberbuddy.io"><img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow"></a> &nbsp;&nbsp;  <a href="https://github.com/cyberbuddy-io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  &nbsp;&nbsp; <a href="https://instagram.com/cyberbuddy-manas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;  <a href="https://twitter.com/cyberbuddy_io"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
